@@ -23,7 +23,7 @@ function App() {
         <h2 id="title" class="header">
           Bryce Schneider
         </h2>
-        <img class="image" src https />://cdn.discordapp.com/attachments/1062806966021402684/1063160172773654659/IMG_9420.png anchor=center&mode=crop&width=1920&height=1080&rnd=132303317085370000 width=250px&gt;
+        <img src={logo} class="image" alt="Bryce Schneider" />
         <p class="paragraph">
           This image depicts a strapping young Penn State student reacting to an insane moment in his favorite class: IST 256. He can not believe what he is seeing!
         </p>
