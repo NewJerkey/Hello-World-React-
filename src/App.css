@@ -88,6 +88,7 @@ button:focus {
 
 .image {
   border: 3px solid yellow;
+  max-width: 250px
 }
 
 @media (max-width: 800px) and (min-width: 500px) {
