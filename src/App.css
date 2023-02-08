@@ -71,21 +71,23 @@ body {
   margin-bottom: 16px;
 }
 
-button {
+.buttons button {
   border-radius: 25px;
 }
 
-button:hover {
-  background-color: yellow;
+.details {
+  border-radius: 25px;
+  color: yellow;
+  background-color: #4caf50;
 }
 
+button:hover,
 button:focus {
   background-color: yellow;
 }
 
 .image {
   border: 3px solid yellow;
-  max-width: 250px;
 }
 
 @media (max-width: 800px) and (min-width: 500px) {
